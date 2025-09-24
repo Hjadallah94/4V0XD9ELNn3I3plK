@@ -1,0 +1,20 @@
+{
+  "best_model_label": "HGB | ['X1', 'X5', 'X2']",
+  "used_features": [
+    "X1",
+    "X5",
+    "X2"
+  ],
+  "final_holdout_metrics": {
+    "accuracy": 0.8125,
+    "precision": 0.8333333333333334,
+    "recall": 0.8333333333333334,
+    "f1": 0.8333333333333334,
+    "roc_auc": 0.8432539682539683
+  },
+  "top_candidates_path": "C:\\Users\\hasan\\OneDrive\\Desktop\\Apziva\\1. Happy Customers Project\\reports\\top_candidates.csv",
+  "gridsearch_svc_path": "C:\\Users\\hasan\\OneDrive\\Desktop\\Apziva\\1. Happy Customers Project\\reports\\gridsearch_svc.csv",
+  "gridsearch_hgb_path": "C:\\Users\\hasan\\OneDrive\\Desktop\\Apziva\\1. Happy Customers Project\\reports\\gridsearch_hgb.csv",
+  "classification_report": "C:\\Users\\hasan\\OneDrive\\Desktop\\Apziva\\1. Happy Customers Project\\reports\\classification_report.txt",
+  "model_path": "C:\\Users\\hasan\\OneDrive\\Desktop\\Apziva\\1. Happy Customers Project\\models\\best_model.joblib"
+}
